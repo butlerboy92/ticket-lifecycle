@@ -32,28 +32,72 @@ Users can create and submit tickets and once submitted, the system intakes the t
 We will log in as one of the users we created (Karen & Ken) and will use them to create a ticket!
 </p>
 <br />
-Here is the screen that would be visible to a user to open a Ticket or chekc the status on an already submitted Ticket
+Here is the screen that would be visible to a user to open a Ticket or check the status on an already submitted Ticket
+<br />
+<br />
 <p>
-<img="https://i.imgur.com/Guqs038.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Guqs038.jpg" height="80%" width="80%" alt="Create/View Ticket Prompt"/>
 </p>
+
 <br />
 <br />
 
+This is the creation of the ticket, but before they get prompt with Issue Summary and the details of their problem, the user will need to select a Help Topic
+<br />
+<br />
+<p>
+<img src="https://i.imgur.com/69Sk2bG.jpg" height="80%" width="80%" alt="adding details of ticket"/>
+</p>
 
 <br />
+<br />
+Those with access to the department the ticket went to would be able to view the ticket, and see something like this under open Tickets to let them know Tickets that still need to be worked on.
+<br />
+<br />
+<p>
+<img src="https://i.imgur.com/bMZIOH2.jpg" height="80%" width="80%" alt="Tickets that are still open"/>
+</p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<br />
 <br />
 
+<strong> Stage 2:</strong> Assignment and Communication
+<br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now the ticket can be viewed by those with the proper permissions, and assigned to the proper department along with the priority of it and SLA. It can also be assigned to a certain Agent and once it is assigned the Agent will be able to work on the ticket. There is also a Thread inside of the Ticket for communication purposes.
 </p>
+<br />
+Here is the default ticket before any changes are made to it.
+<br />
+<br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/tQLX5TR.jpg" height="80%" width="80%" alt="Assigning Ticket"/>
 </p>
+
+<br />
+<br />
+
+<strong>Stage 3: </strong> Working the Issue
+<br />
+<p>
+Now that the ticket is assigned, whatever Agent you assigned it to, log in to the Agent's account and begin to work on the Issue. You should see the ticket appear in the Agent's Open Tickets tab and click it to open it. 
+</p>
+<br />
+Here we see everything in the ticket along with any messages that have been posted in the thread giving us any information we may need to begin working on the ticket.
+<p>
+<img src="https://i.imgur.com/T3cq4R5.jpg" height="80%" width="80%" alt="Ticket being worked on"/>
+</p>
+
+<br />
+<br />
+
+<strong>Stage 4:</strong> Resolving the Ticket
+<br />
+<p>
+Once a solution to the problem has been found, we can set the Ticket to resolved which would then close the Ticket. For this example you will see a simple explanation of the solution in the thread along with setting the ticket to resolved.
+</p>
+<br />
+<br />
+Here we see a quick explanation of what the problem was and that is was corrected so now the ticket can be set to resolved. Ticket Status: 
+
 <br />
