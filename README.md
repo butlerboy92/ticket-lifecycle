@@ -84,6 +84,8 @@ Now that the ticket is assigned, whatever Agent you assigned it to, log in to th
 </p>
 <br />
 Here we see everything in the ticket along with any messages that have been posted in the thread giving us any information we may need to begin working on the ticket.
+<br />
+<br />
 <p>
 <img src="https://i.imgur.com/T3cq4R5.jpg" height="80%" width="80%" alt="Ticket being worked on"/>
 </p>
@@ -98,6 +100,21 @@ Once a solution to the problem has been found, we can set the Ticket to resolved
 </p>
 <br />
 <br />
-Here we see a quick explanation of what the problem was and that is was corrected so now the ticket can be set to resolved. Ticket Status: 
+Here we see a quick explanation of what the problem was and that is was corrected so now the ticket can be set to resolved. Ticket Status: ⇒ Resolved and then post reply to finish up.
+<br />
+<br />
+<p>
+<img src="https://i.imgur.com/fNSWzBn.jpg" height="80%" width="80%" alt="Ticket Resolved"/>
+</p>
 
 <br />
+<br />
+
+<h2>Finish</h2>
+<p>
+This concludes the brief overview of a ticket lifecycle with osTicket Help Desk (Intake, Assignment & Communication, Working the Ticket, Resolving the Ticket)
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
